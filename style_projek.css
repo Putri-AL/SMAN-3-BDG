@@ -638,6 +638,23 @@ html{
             margin-left: -300%;
         }
 
+        /*-------*/
+        #slide-17:target ~ .images-galeri{
+            margin-left: 0;
+        }
+
+        #slide-18:target ~ .images-galeri{
+            margin-left: -100%;
+        }
+
+        #slide-19:target ~ .images-galeri{
+            margin-left: -200%;
+        }
+        
+        #slide-20:target ~ .images-galeri{
+            margin-left: -300%;
+        }
+
         /*-----------------------------------------*/
         .berita{
             width: 100%;
