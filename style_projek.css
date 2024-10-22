@@ -334,19 +334,19 @@ html{
         }
 
        /*------------------------------------------*/
-        #slide-17:target ~ .images{
+        #slide-13:target ~ .images{
             margin-left: 0;
         }
 
-        #slide-18:target ~ .images{
+        #slide-14:target ~ .images{
             margin-left: -100%;
         }
 
-        #slide-19:target ~ .images{
+        #slide-15:target ~ .images{
             margin-left: -200%;
         }
         
-        #slide-20:target ~ .images{
+        #slide-16:target ~ .images{
             margin-left: -300%;
         }
 
